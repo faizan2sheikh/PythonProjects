@@ -1,0 +1,4 @@
+First install pygame in your computer:
+
+Write this command in your python terminal:
+    pip install pygame
